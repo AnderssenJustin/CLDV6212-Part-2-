@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\ABCRetailers.Functions\\ABCRetailers\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FC7E6833-3FDA-4B43-BCC2-1DECC1AC7173}|..\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj|c:\\users\\lab_services_student\\desktop\\abcretailers.functions\\abcretailers.functions\\functions\\uploadsfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FC7E6833-3FDA-4B43-BCC2-1DECC1AC7173}|..\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj|c:\\users\\lab_services_student\\desktop\\abcretailers.functions\\abcretailers.functions\\functions\\queueprocessorfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -13,9 +16,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC7E6833-3FDA-4B43-BCC2-1DECC1AC7173}|..\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj|c:\\users\\lab_services_student\\desktop\\abcretailers.functions\\abcretailers.functions\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC7E6833-3FDA-4B43-BCC2-1DECC1AC7173}|..\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj|c:\\users\\lab_services_student\\desktop\\abcretailers.functions\\abcretailers.functions\\functions\\uploadsfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC7E6833-3FDA-4B43-BCC2-1DECC1AC7173}|..\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj|c:\\users\\lab_services_student\\desktop\\abcretailers.functions\\abcretailers.functions\\functions\\productsfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -73,24 +73,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "OrdersFunctions.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ABCRetailers.Functions\\ABCRetailers.Functions\\Functions\\OrdersFunctions.cs",
               "RelativeDocumentMoniker": "..\\ABCRetailers.Functions\\Functions\\OrdersFunctions.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ABCRetailers.Functions\\ABCRetailers.Functions\\Functions\\OrdersFunctions.cs*",
-              "RelativeToolTip": "..\\ABCRetailers.Functions\\Functions\\OrdersFunctions.cs*",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ABCRetailers.Functions\\ABCRetailers.Functions\\Functions\\OrdersFunctions.cs",
+              "RelativeToolTip": "..\\ABCRetailers.Functions\\Functions\\OrdersFunctions.cs",
               "ViewState": "AgIAAJoAAAAAAAAAAAAwwIYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T10:29:31.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T10:29:31.527Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BlobFunctions.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ABCRetailers.Functions\\ABCRetailers.Functions\\Functions\\BlobFunctions.cs",
               "RelativeDocumentMoniker": "..\\ABCRetailers.Functions\\Functions\\BlobFunctions.cs",
@@ -98,18 +97,17 @@
               "RelativeToolTip": "..\\ABCRetailers.Functions\\Functions\\BlobFunctions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T10:14:08.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T10:14:08.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "UploadsFunctions.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ABCRetailers.Functions\\ABCRetailers.Functions\\Functions\\UploadsFunctions.cs",
               "RelativeDocumentMoniker": "..\\ABCRetailers.Functions\\Functions\\UploadsFunctions.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ABCRetailers.Functions\\ABCRetailers.Functions\\Functions\\UploadsFunctions.cs",
               "RelativeToolTip": "..\\ABCRetailers.Functions\\Functions\\UploadsFunctions.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-06T10:13:51.161Z",
               "EditorCaption": ""
@@ -124,8 +122,7 @@
               "RelativeToolTip": "..\\ABCRetailers.Functions\\Functions\\ProductsFunctions.cs",
               "ViewState": "AgIAAJkAAAAAAAAAAAAowFwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T09:55:48.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T09:55:48.572Z"
             },
             {
               "$type": "Document",
@@ -137,17 +134,16 @@
               "RelativeToolTip": "..\\ABCRetailers.Functions\\Functions\\CustomersFunctions.cs",
               "ViewState": "AgIAAF8AAAAAAAAAAAAswAQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T09:38:07.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T09:38:07.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "QueueProcessorFunctions.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ABCRetailers.Functions\\ABCRetailers.Functions\\Functions\\QueueProcessorFunctions.cs",
               "RelativeDocumentMoniker": "..\\ABCRetailers.Functions\\Functions\\QueueProcessorFunctions.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ABCRetailers.Functions\\ABCRetailers.Functions\\Functions\\QueueProcessorFunctions.cs*",
-              "RelativeToolTip": "..\\ABCRetailers.Functions\\Functions\\QueueProcessorFunctions.cs*",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ABCRetailers.Functions\\ABCRetailers.Functions\\Functions\\QueueProcessorFunctions.cs",
+              "RelativeToolTip": "..\\ABCRetailers.Functions\\Functions\\QueueProcessorFunctions.cs",
               "ViewState": "AgIAAFQAAAAAAAAAAAAYwGMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T07:00:46.402Z",
@@ -167,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "local.settings.json",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ABCRetailers.Functions\\ABCRetailers.Functions\\local.settings.json",
               "RelativeDocumentMoniker": "..\\ABCRetailers.Functions\\local.settings.json",
@@ -175,12 +171,7 @@
               "RelativeToolTip": "..\\ABCRetailers.Functions\\local.settings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-01T15:27:31.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "WhenOpened": "2025-10-01T15:27:31.686Z"
             },
             {
               "$type": "Document",
@@ -301,6 +292,10 @@
               "ViewState": "AgIAABIAAAAAAAAAAAAkwCsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-01T17:58:34.384Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             }
           ]
         }

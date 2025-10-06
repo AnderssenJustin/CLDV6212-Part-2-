@@ -21,7 +21,7 @@ public class UploadsFunctions
         _share = cfg["FILESHARE_CONTRACTS"] ?? "contracts";
         _shareDir = cfg["FILESHARE_DIR_PAYMENTS"] ?? "payments";
     }
-
+    //
     [Function("Uploads_ProofOfPayment")]
     public async Task<HttpResponseData> Proof(
         [HttpTrigger(AuthorizationLevel.Anonymous, "post", Route = "uploads/proof-of-payment")] HttpRequestData req)
